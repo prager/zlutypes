@@ -18,4 +18,5 @@ application/logs/*
 
 .remote-sync.json
 .env
+.phpconn
 app/Config/Database.php

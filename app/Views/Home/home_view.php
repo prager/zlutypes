@@ -8,10 +8,10 @@
                 <!-- Hero Slide-->
                 <div class="swiper-slide h-auto mb-3 mx-3">
                   <div class="row gy-5 h-100 align-items-center">
-                    <div class="col-lg-8 text-lg-end"><img class="ml-auto img-fluid" src="assets/img/logo-pes.png" alt="Zluty pes">
+                    <div class="col-lg-6 text-lg-end"><img class="ml-auto img-fluid" src="assets/img/logo-pes.png" alt="Zluty pes">
                       <h2>Legenda a stálice českého bigbítu</h2>
                       <ul class="list-unstyled fw-bold mb-0">
-                        <li class="mb-2">Celou dobu už od roku 1978</li>
+                        <li class="mb-2">Stále pořád už od roku 1978</li>
                         <li>V plném složení celých 15 let!</li>
                         <li>Stará webka: <a href="https://web.archive.org/web/20150507022419/http://www.zlutypes.cz/zlutypes.php?pid=2" target="_blank" style="color: brown;">Žlutý pes (http://zlutypes.cz)</a>
                       </ul>
